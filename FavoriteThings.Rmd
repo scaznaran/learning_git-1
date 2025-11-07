@@ -1,14 +1,19 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Sofia Cristina Aznaran Robles"
 output: html_notebook
+editor_options: 
+  chunk_output_type: inline
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Baking
+ - Videogames
+ - Cook
+ - Languages
+ - Family
+ 
+ 
 
-🍴
+🐼
